@@ -6,3 +6,6 @@ data transformation:
 
 train model:
     r^2, confusion matrix here too
+
+
+
